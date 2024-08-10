@@ -4,7 +4,7 @@
 #### Game Developer, Fullstack Engineer & Open Source Contributer
 > TypeScript, C++, C#, Rust, React, React Native, Unreal Engine, Next.js, Node.js
 
-Web enthusiast with a passion for interactive content, game dev, and creative problem-solving. Skilled in building engaging web apps and excited to take on projects where creativity meets technical complexity.
+Web enthusiast with a passion for interactive content, game dev, and creative problem-solving. Skilled in building engaging apps where creativity meets technical complexity.
 
 #### Open Source
 [ZzFX](https://github.com/KilledByAPixel/ZzFX/commits?author=thejustinwalsh) | 
