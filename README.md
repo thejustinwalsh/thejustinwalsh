@@ -7,6 +7,7 @@
 Web enthusiast with a passion for interactive content, game dev, and creative problem-solving. Skilled in building engaging apps where creativity meets technical complexity.
 
 #### Open Source
+[pixi-react](https://github.com/pixijs/pixi-react/pull/522) | 
 [ZzFX](https://github.com/KilledByAPixel/ZzFX/commits?author=thejustinwalsh) | 
 [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua/commits?author=thejustinwalsh) | 
 [rugs](https://github.com/jorgenpt/rugs/commits?author=thejustinwalsh) | 
