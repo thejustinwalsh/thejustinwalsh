@@ -1,7 +1,7 @@
 <!--
 **thejustinwalsh/thejustinwalsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-#### Game Developer, Fullstack Engineer & Open Source Contributer
+#### Fullstack Engineer, Game Developer & Open Source Contributer
 > TypeScript, C++, C#, Rust, React, React Native, Unreal Engine, Next.js, Node.js, SQLite, CouchDB
 
 Web enthusiast with a passion for interactive content, game dev, and creative problem-solving. Skilled in building engaging apps where creativity meets technical complexity.
